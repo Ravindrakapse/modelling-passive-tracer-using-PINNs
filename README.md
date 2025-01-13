@@ -16,10 +16,16 @@ $s(x,y,0) = \sin(x) \sin(y)$
 
 ## 📊 Results
 The results include a **comparison between the spectral method and PINNs solution**:
-  ![Comparison Results](results/comparison.gif)
+
 <table>
   <tr>
     <td><img src="passive_tracer_spectral_pinns.gif" width="100%"/><br><center>Figure 1: dynamics of tracer.</center></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="Correlation between Spectral and PINNs.png" width="100%"/><br><center>Figure 2: Correlation between Spectral and PINNs.</center></td>
   </tr>
 </table>
 
